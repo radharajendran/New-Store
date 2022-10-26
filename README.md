@@ -1,7 +1,7 @@
 # New-Store
 
 Step 1: Install dependent node modules
-npm install
+#npm install
 
 To execute unit test cases
-npm run test
+#npm run test
